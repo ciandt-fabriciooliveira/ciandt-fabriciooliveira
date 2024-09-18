@@ -28,7 +28,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 <p>Burunyuu~</p>
 <img src="./files/nekoarc4.gif" ></img>
 </div>
-<p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
+<p>**Current Mood**: Just like Neco Arc, trying to survive the daily challenges with a smile!</p>
 
 ### Profiles
 [![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabriciovo.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciovo/)
