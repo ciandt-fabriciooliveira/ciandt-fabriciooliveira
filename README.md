@@ -18,7 +18,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 
 ## Nekoarc memes to save my sanity in this lovely company
 <div>
-<img src="./files/Neco Arc Immune.gif" height="395" width="236" ></img>
+<img src="./files/Neco Arc Immune.gif" ></img>
   <p>**don't get this wrong, she may look like she's taking no damage, but she is infact in GREAT pain</p>
 </div>
 
