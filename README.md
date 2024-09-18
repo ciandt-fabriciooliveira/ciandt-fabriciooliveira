@@ -22,6 +22,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
   <p>**don't get this wrong, she may look like she's taking no damage, but she is infact in GREAT pain</p>
 </div>
 <div>
+<img src="./files/necoarc1.gif" ></img>
 <img width="180px" src="./files/nekoarc2.gif" ></img>
 <img src="./files/nekoarc3.gif" ></img>
 <img src="./files/nekoarc4.gif" ></img>
