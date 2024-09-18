@@ -21,6 +21,12 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 <img src="./files/Neco Arc Immune.gif" ></img>
   <p>**don't get this wrong, she may look like she's taking no damage, but she is infact in GREAT pain</p>
 </div>
-
+<div>
+<img src="./files/nekoarc1.gif" ></img>
+<img src="./files/nekoarc2.gif" ></img>
+<img src="./files/nekoarc3.gif" ></img>
+<img src="./files/nekoarc4.gif" ></img>
+</div>
+<p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
 ### Profiles
 [![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabriciovo.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciovo/)
