@@ -25,6 +25,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 <img src="./files/necoarc1.gif" ></img>
 <img width="180px" src="./files/nekoarc2.gif" ></img>
 <img src="./files/nekoarc3.gif" ></img>
+<p>Burunyuu~</p>
 <img src="./files/nekoarc4.gif" ></img>
 </div>
 <p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
