@@ -18,7 +18,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 
 ## Nekoarc memes to save my sanity in this lovely company
 <div>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=68747734991" height="395" width="236" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=68747734991" height="395" width="236" ></img>
   <p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
 </div>
 
