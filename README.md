@@ -18,8 +18,8 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 
 ## Nekoarc memes to save my sanity in this lovely company
 <div>
-<img src="https://assets.pinterest.com/ext/embed.html?id=68747734991" height="395" width="236" ></img>
-  <p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
+<img src="./files/Neco Arc Immune.gif" height="395" width="236" ></img>
+  <p>**don't get this wrong, she may look like she's taking no damage, but she is infact in GREAT pain</p>
 </div>
 
 ### Profiles
