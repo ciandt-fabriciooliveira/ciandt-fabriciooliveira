@@ -1,6 +1,6 @@
 
 <img align="center" src="./files/thisisfine.gif"  width="100%"/>
-<br/><br/><br/>
+
 <img align="right" src="./files/javascript-3d.gif" width="20%">
 
 ## About me
