@@ -15,5 +15,12 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-00B4CC?style=for-the-badge&logo=phaser&logoColor=white) ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
+
+## Nekoarc memes to save my sanity in this lovely company
+<div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=68747734991" height="395" width="236" frameborder="0" scrolling="no" ></iframe>
+  <p>**Current Mood**: Just like Neko Arc, trying to survive the daily challenges with a smile!</p>
+</div>
+
 ### Profiles
 [![itch.io](https://img.shields.io/badge/itch.io-FF66A5?style=for-the-badge&logo=itch.io&logoColor=white)](https://fabriciovo.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciovo/)
