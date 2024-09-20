@@ -16,7 +16,7 @@ Experienced Front End Developer with 9 years of expertise in creating dynamic, h
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-00B4CC?style=for-the-badge&logo=phaser&logoColor=white) ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 
-## Necoarc memes to save my sanity in this lovely company
+## Necoarc memes to save my sanity
 <div>
 <img src="./files/Neco Arc Immune.gif" ></img>
   <p>**don't get this wrong, she may look like she's taking no damage, but she is infact in GREAT pain</p>
